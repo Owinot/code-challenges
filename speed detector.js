@@ -1,7 +1,8 @@
 
+    let speed=200; 
     const speedLimit = 70;
     let demeritPoints = Math.floor((speed - speedLimit) / 5);;
-    var speed=69; 
+    
     if (speed <= speedLimit) {
         console.log("Ok");
     } else {

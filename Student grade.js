@@ -1,5 +1,5 @@
 
-let marks=35
+let marks=100
     if (marks > 79) {
         console.log("This student is Grade A");
     } else if (marks >= 60 && marks <= 79) {

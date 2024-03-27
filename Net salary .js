@@ -1,4 +1,4 @@
-    const benefits=1000
+    const benefits=50
     const basicSalary=10000
     const TAX_RATES = [
         { limit: 24000, rate: 10 },
